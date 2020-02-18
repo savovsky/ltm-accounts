@@ -4,21 +4,70 @@
             "id": "1",
             "brand": "lifetouch",
             "isMerged": true,
-            "migrationDate": "Sep 05, 2018 12:19 PM",
+            "migrationDate": "Sep 01, 2018 12:19 PM",
             "email": "dcc18348_296f_483e_b672_8a119396f73c@shutterfly.com"
         },
         {
             "id": "2",
             "brand": "Lifetouch",
             "isMerged": false,
-            "migrationDate": "Sep 05, 2018 12:23 PM",
+            "migrationDate": "Sep 02, 2018 12:23 PM",
             "email": "acb9a8d0_b5f4_462d_9475_d485ca00ed59@shutterfly.com"
         },
         {
             "id": "3",
             "brand": "other brand",
             "isMerged": false,
+            "migrationDate": "Sep 03, 2018 12:25 PM",
+            "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
+        },
+        {
+            "id": "4",
+            "brand": "other brand",
+            "isMerged": true,
+            "migrationDate": "Sep 04, 2018 12:25 PM",
+            "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
+        },
+        {
+            "id": "5",
+            "brand": "other brand",
+            "isMerged": true,
             "migrationDate": "Sep 05, 2018 12:25 PM",
+            "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
+        },
+        {
+            "id": "6",
+            "brand": "other brand",
+            "isMerged": true,
+            "migrationDate": "Sep 06, 2018 12:25 PM",
+            "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
+        },
+        {
+            "id": "7",
+            "brand": "other brand",
+            "isMerged": false,
+            "migrationDate": "Sep 07, 2018 12:25 PM",
+            "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
+        },
+        {
+            "id": "8",
+            "brand": "other brand",
+            "isMerged": false,
+            "migrationDate": "Sep 08, 2018 12:25 PM",
+            "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
+        },
+        {
+            "id": "9",
+            "brand": "other brand",
+            "isMerged": false,
+            "migrationDate": "Sep 09, 2018 12:25 PM",
+            "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
+        },
+        {
+            "id": "10",
+            "brand": "other brand",
+            "isMerged": true,
+            "migrationDate": "Sep 10, 2018 12:25 PM",
             "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
         }
     ]

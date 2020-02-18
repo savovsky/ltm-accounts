@@ -1,0 +1,25 @@
+{
+    "accounts": [
+        {
+            "id": "1",
+            "brand": "lifetouch",
+            "isMerged": true,
+            "migrationDate": "Sep 05, 2018 12:19 PM",
+            "email": "dcc18348_296f_483e_b672_8a119396f73c@shutterfly.com",
+        },
+        {
+            "id": "2",
+            "brand": "Lifetouch",
+            "isMerged": false,
+            "migrationDate": "Sep 05, 2018 12:23 PM",
+            "email": "acb9a8d0_b5f4_462d_9475_d485ca00ed59@shutterfly.com",
+        },
+        {
+            "id": "3",
+            "brand": "other brand",
+            "isMerged": false,
+            "migrationDate": "Sep 05, 2018 12:25 PM",
+            "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com",
+        },
+    ]
+}

@@ -25,7 +25,7 @@
             "id": "0000000000000004",
             "brand": "other brand",
             "isMerged": true,
-            "migrationDate": "2018-05-24 18:44:56.572 0200",
+            "migrationDate": "2018-05-24 18:44:56.572 +0200",
             "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
         },
         {
@@ -46,7 +46,7 @@
             "id": "0000000000000007",
             "brand": "Lifetouch",
             "isMerged": false,
-            "migrationDate": "2018-03-24 04:44:56.572 0100",
+            "migrationDate": "2018-03-24 04:44:56.572 +0100",
             "email": "1155da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
         },
         {

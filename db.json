@@ -4,70 +4,70 @@
             "id": "0000000000000005",
             "brand": "lifetouch",
             "isMerged": true,
-            "migrationDate": "2018-08-31 13:44:56.572 -0700",
+            "migrationDate": "2018-08-31T0113:44:56.572-0700",
             "email": "dcc18348_296f_483e_b672_8a119396f73c@shutterfly.com"
         },
         {
             "id": "0000000000000010",
             "brand": "Lifetouch",
             "isMerged": false,
-            "migrationDate": "2018-10-24 10:44:56.572 -0600",
+            "migrationDate": "2018-10-24T0110:44:56.572-0600",
             "email": "acb9a8d0_b5f4_462d_9475_d485ca00ed59@shutterfly.com"
         },
         {
             "id": "0000000000000008",
             "brand": "brand",
             "isMerged": false,
-            "migrationDate": "2018-09-04 08:44:56.572 -0100",
+            "migrationDate": "2018-09-04T0108:44:56.572-0100",
             "email": "abcdda6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
         },
         {
             "id": "0000000000000004",
             "brand": "other brand",
             "isMerged": true,
-            "migrationDate": "2018-05-14 18:44:56.572 +0200",
+            "migrationDate": "2018-05-14T0118:44:56.572+0200",
             "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
         },
         {
             "id": "0000000000000001",
             "brand": "other brand",
             "isMerged": true,
-            "migrationDate": "2018-04-16 12:44:56.572 -0200",
+            "migrationDate": "2018-04-16T0112:44:56.572-0200",
             "email": "8265da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
         },
         {
             "id": "0000000000000009",
             "brand": "brand",
             "isMerged": true,
-            "migrationDate": "2018-07-07 20:44:56.572 -0700",
+            "migrationDate": "2018-07-07T0120:44:56.572-0700",
             "email": "3255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
         },
         {
             "id": "0000000000000007",
             "brand": "Lifetouch",
             "isMerged": false,
-            "migrationDate": "2018-03-03 04:44:56.572 +0100",
+            "migrationDate": "2018-03-03T0104:44:56.572+0100",
             "email": "1155da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
         },
         {
             "id": "0000000000000003",
             "brand": "Lifetouch",
             "isMerged": false,
-            "migrationDate": "2018-01-24 13:44:56.572 -0700",
+            "migrationDate": "2018-01-24T0113:44:56.572-0700",
             "email": "1255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
         },
         {
             "id": "0000000000000006",
             "brand": "Lifetouch",
             "isMerged": false,
-            "migrationDate": "2018-01-24 13:45:56.572 -0700",
+            "migrationDate": "2018-01-24T0113:45:56.572-0700",
             "email": "7455da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
         },
         {
             "id": "0000000000000002",
             "brand": "Lifetouch",
             "isMerged": true,
-            "migrationDate": "2018-01-24 13:45:56.572 -0800",
+            "migrationDate": "2018-01-24T0113:45:56.572-0800",
             "email": "8255da6b_e275_4b0e_baa6_75d626c10e9c@shutterfly.com"
         }
     ]
